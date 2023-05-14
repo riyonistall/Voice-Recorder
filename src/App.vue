@@ -68,13 +68,14 @@ const ToggleMic = () => {
 
 <style>
 * {
-	margin: 0;
-	padding: 0;
+	margin: 20;
+	padding: 10;
 	box-sizing: border-box;
 	font-family: 'Fira sans', sans-serif;
 }
 
 body {
+	text-align: center;
 	background: #281936;
 	color: #FFF;
 }
